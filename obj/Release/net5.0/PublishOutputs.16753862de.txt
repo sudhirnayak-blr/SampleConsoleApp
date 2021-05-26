@@ -1,0 +1,5 @@
+D:\OnlineTrainings\Sapient\Samples\SampleConsoleApp\bin\Release\net5.0\publish\SampleConsoleApp.exe
+D:\OnlineTrainings\Sapient\Samples\SampleConsoleApp\bin\Release\net5.0\publish\SampleConsoleApp.dll
+D:\OnlineTrainings\Sapient\Samples\SampleConsoleApp\bin\Release\net5.0\publish\SampleConsoleApp.deps.json
+D:\OnlineTrainings\Sapient\Samples\SampleConsoleApp\bin\Release\net5.0\publish\SampleConsoleApp.runtimeconfig.json
+D:\OnlineTrainings\Sapient\Samples\SampleConsoleApp\bin\Release\net5.0\publish\SampleConsoleApp.pdb

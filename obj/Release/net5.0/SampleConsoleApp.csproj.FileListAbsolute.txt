@@ -1,0 +1,16 @@
+D:\OnlineTrainings\Sapient\Samples\SampleConsoleApp\bin\Release\net5.0\SampleConsoleApp.exe
+D:\OnlineTrainings\Sapient\Samples\SampleConsoleApp\bin\Release\net5.0\SampleConsoleApp.deps.json
+D:\OnlineTrainings\Sapient\Samples\SampleConsoleApp\bin\Release\net5.0\SampleConsoleApp.runtimeconfig.json
+D:\OnlineTrainings\Sapient\Samples\SampleConsoleApp\bin\Release\net5.0\SampleConsoleApp.runtimeconfig.dev.json
+D:\OnlineTrainings\Sapient\Samples\SampleConsoleApp\bin\Release\net5.0\SampleConsoleApp.dll
+D:\OnlineTrainings\Sapient\Samples\SampleConsoleApp\bin\Release\net5.0\ref\SampleConsoleApp.dll
+D:\OnlineTrainings\Sapient\Samples\SampleConsoleApp\bin\Release\net5.0\SampleConsoleApp.pdb
+D:\OnlineTrainings\Sapient\Samples\SampleConsoleApp\obj\Release\net5.0\SampleConsoleApp.csprojAssemblyReference.cache
+D:\OnlineTrainings\Sapient\Samples\SampleConsoleApp\obj\Release\net5.0\SampleConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\OnlineTrainings\Sapient\Samples\SampleConsoleApp\obj\Release\net5.0\SampleConsoleApp.AssemblyInfoInputs.cache
+D:\OnlineTrainings\Sapient\Samples\SampleConsoleApp\obj\Release\net5.0\SampleConsoleApp.AssemblyInfo.cs
+D:\OnlineTrainings\Sapient\Samples\SampleConsoleApp\obj\Release\net5.0\SampleConsoleApp.csproj.CoreCompileInputs.cache
+D:\OnlineTrainings\Sapient\Samples\SampleConsoleApp\obj\Release\net5.0\SampleConsoleApp.dll
+D:\OnlineTrainings\Sapient\Samples\SampleConsoleApp\obj\Release\net5.0\ref\SampleConsoleApp.dll
+D:\OnlineTrainings\Sapient\Samples\SampleConsoleApp\obj\Release\net5.0\SampleConsoleApp.pdb
+D:\OnlineTrainings\Sapient\Samples\SampleConsoleApp\obj\Release\net5.0\SampleConsoleApp.genruntimeconfig.cache
