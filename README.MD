@@ -10,3 +10,5 @@ The project is built over .NET Core v5.0
 ## What tools are used? 
 [Docker], [GitHub], [Jenkins] are tools used.
 
+## Licenses required? 
+No licenses are required for this project.
